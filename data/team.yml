@@ -1,0 +1,19 @@
+enable  : false
+title   : Network Steering Committee
+members  :
+  - name  : Arbitrary person
+    image : images/team/M_Ling_web.jpg
+    designation : Interim Co-ordinator
+    description : Arbitrary is a Lecturer in Something at a University and is eager to share responsibility for this with other like minded radicals. 
+    twitter     : https://www.twitter.com/test
+
+  
+#  - name  : Jesmin Martina
+#    image : images/team/team-2.jpg
+#    designation : CEO, Project Manager
+#    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+#    facebook    : https://www.fb.com/themefisher
+#    twitter     : https://www.twitter.com/themefisher
+#    linkedIn    : https://www.linkedin.com/themefisher
+#    googleplus  : https://plus.google.com/themefisher
+  

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Australia and New Zealand Open Research Network</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Australia and New Zealand Open Research Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Melbourne Open Research Network</title>
+      <link>/portfolio/melbourne/</link>
+      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
+      
+      <guid>/portfolio/melbourne/</guid>
+      <description>Melbourne Open Research Network Melbourne Open Research Network is a collection of over 40 people, in Ecology, Bioinformatics, Psychology, Economics, Software development and more, across at least 4 institutes. You can find more about our activites by following the MORN twitter account.</description>
+    </item>
+    
+  </channel>
+</rss>
