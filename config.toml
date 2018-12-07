@@ -13,6 +13,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         name    = "About"
         url     = "/about"
         weight  = 2
+    [[menu.nav]]
+        name    = "Code of Conduct"
+        url     = "/post/code-of-conduct/"
+        weight  = 3
     #[[menu.nav]]
     #    name    = "Service"
     #    url     = "/service"
@@ -23,8 +27,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #    weight  = 4
     [[menu.nav]]
         name    = "Articles"
-        url     = "/blog"
-        weight  = 3
+        url     = "/post"
+        weight  = 4
     #[[menu.nav]]
     #    name    = "Contact"
     #    url     = "/contact"
@@ -56,7 +60,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open science and open research practices are growing, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in our region, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research. </br></br>ANZORN is an inclusive and welcoming community by design, to preserve this, our activities are subject to our <a href='https://morn.netlify.com/coc'>Code of conduct</a>. Please familiarise yourself with it. "
+        content = "Open science and open research practices are growing, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in our region, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research. </br></br>ANZORN is an inclusive and welcoming community by design, to preserve this, our activities are subject to our <a href='http://anzorn.netlify.com/post/code-of-conduct/'>Code of conduct</a>. Please familiarise yourself with it. "
         image   = "images/about/invert.png"
 
     # Call to Action

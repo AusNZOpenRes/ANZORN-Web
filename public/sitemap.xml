@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/making-your-open-research-community/</loc>
+    <loc>/post/code-of-conduct/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/making-your-open-research-community/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,6 +56,12 @@
   <url>
     <loc>/portfolio/</loc>
     <lastmod>2018-07-12T16:54:54+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
