@@ -37,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Site Params
 [params]
     home = "Home"
-    logo = ""
+    logo = "images/anz_web_small.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
