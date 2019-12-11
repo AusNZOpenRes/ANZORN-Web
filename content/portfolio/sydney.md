@@ -12,6 +12,6 @@ location:
 ---
 ### Sydney Open Research Network
 
-Sydney Open Research Network is a collection of over 25 people, in Ecology, 
+Sydney Open Research Network is a collection of over 25 people, in Digital Humanities, Ecology, 
 Psychology, Evolutionary biology and more, across at least 3 institutes. 
 You can find more about our activites by following the [SORN twitter account](www.twitter.com/SydneyOpenRes). 
